@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kryptonite", "Kryptonite\Kryptonite.csproj", "{2A724079-4461-4578-AA28-0CBAE0D0DB4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{69FF50B0-23FA-4429-9C43-54CA1C23EF18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A724079-4461-4578-AA28-0CBAE0D0DB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A724079-4461-4578-AA28-0CBAE0D0DB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A724079-4461-4578-AA28-0CBAE0D0DB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A724079-4461-4578-AA28-0CBAE0D0DB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69FF50B0-23FA-4429-9C43-54CA1C23EF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FF50B0-23FA-4429-9C43-54CA1C23EF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FF50B0-23FA-4429-9C43-54CA1C23EF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FF50B0-23FA-4429-9C43-54CA1C23EF18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E82CCCF-BE0C-446F-B8D7-B64E89505D9F}
+	EndGlobalSection
+EndGlobal
